@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "MobileEnvironmentLab",
-    "slug": "MobileEnvironmentLab",
+    "name": "campus-picks-catalog",
+    "slug": "campus-picks-catalog",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "mobileenvironmentlab",
+    "scheme": "campuspickscatalog",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon"
